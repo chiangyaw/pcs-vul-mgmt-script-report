@@ -1,0 +1,8 @@
+ci_images_vul.csv
+ci_images_vul.json
+deployed_images_vul.csv
+deployed_images_vul.json
+registry_images_vul.csv
+registry_images_vul.json
+pyvenv.cfg
+*pcs-env*
